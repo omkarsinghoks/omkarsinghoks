@@ -22,7 +22,7 @@
 - <a href="mailto:oksi6189@gmail.com" style="text-decoration: none; color: #2196F3;">oksi6189@gmail.com</a>
 
 ### 📄 **Know more about my experiences:**
-- <a href="https://drive.google.com/file/d/10JlaO1jKpEQz00p1s-T3e2Jgmp-msxkk/view?usp=drive_link" style="text-decoration: none; color: #2196F3;">My Resume</a>
+- <a href="https://drive.google.com/file/d/1NnQQhczHMX36BHiuraBBX0yYttbG_QQU/view?usp=drive_link" style="text-decoration: none; color: #2196F3;">My Resume</a>
 
 ---
 
